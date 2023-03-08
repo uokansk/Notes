@@ -7,9 +7,10 @@ public class RepositoryFile implements Repository{
     private Mapper mapper;
     private FileOperation fileOperation;
 
-    public RepositoryFile(Mapper mapper, FileOperation fileOperation) {
-        this.mapper = mapper;
+    public RepositoryFile(FileOperation fileOperation, Mapper mapper) {
         this.fileOperation = fileOperation;
+        this.mapper = mapper;
+
     }
     @Override
     public List<Note> getAllNotes() {
@@ -39,10 +40,6 @@ public class RepositoryFile implements Repository{
         return id;
     }
 
-    @Override
-    public void deleteNote(String noteId) {
-
-    }
 
     private void saveRepository(List<Note> notes) {
         List<String> lines = new ArrayList<>();
@@ -51,17 +48,17 @@ public class RepositoryFile implements Repository{
         }
         fileOperation.saveAllLines(lines);
     }
-    public void deleteUser(String noteId) {
-        List<Note> users = getAllNotes();
+    public void deleteNote(String noteId) {
+        List<Note> notes = getAllNotes();
         Note foundNote = null;
-        for (Note item : users) {
+        for (Note item : notes) {
             if (item.getId().equals(noteId)) {
                 foundNote = item;
             }
         }
         if (foundNote != null) {
-            users.remove(foundNote);
+            notes.remove(foundNote);
         }
-        saveRepository(users);
+        saveRepository(notes);
     }
 }

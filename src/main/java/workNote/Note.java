@@ -5,9 +5,8 @@ public class Note {
     private String header;
     private String text;
 
-//    public Note(String id, String header, String text)
+
     public Note(String header, String text){
-//        this.id = id;
         this.header = header;
         this.text = text;
     }
@@ -42,10 +41,6 @@ public class Note {
 
     @Override
     public String toString() {
-        return "Note{" +
-                "id='" + id + '\'' +
-                ", header='" + header + '\'' +
-                ", text='" + text + '\'' +
-                '}';
+        return String.format("Идентафикатор: %s\nЗаголовок: %s,\nТекст: %s", id, header, text);
     }
 }

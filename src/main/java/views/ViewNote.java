@@ -14,8 +14,7 @@ public class ViewNote {
         Commands com = Commands.NONE;
         while (true) {
             try {
-                String command = prompt("Введите команду: CREATE, READ, LIST, DELETE, UPDATE  \n");
-//            com = Commands.valueOf(command);
+                String command = prompt("Введите команду: CREATE, READ, LIST, DELETE, UPDATE, EXIT  \n");
                 com = Commands.valueOf(command.toUpperCase());
                 if (com == Commands.EXIT) return;
                 switch (com) {
@@ -62,7 +61,7 @@ public class ViewNote {
         }
     }
     private void caseRead() {
-        String id = prompt("Идентификатор пользователя: ");
+        String id = prompt("Идентификатор записи: ");
         try {
             Note note = noteController.readNote(id);
             System.out.println(note);
