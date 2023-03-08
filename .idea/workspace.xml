@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="удалил тест">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="исправил некоторый ошибки">
       <change afterPath="$PROJECT_DIR$/src/main/java/workNote/Logable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/workNote/LoggerConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/NoteDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/NoteDecoratorFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/NoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/views/ViewNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/views/ViewNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/workNote/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/workNote/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/workNote/RepositoryFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/workNote/RepositoryFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -107,12 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678118914156</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="исправил некоторый ошибки">
+      <created>1678267186905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678267186905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="домашняя работа 6" />
     <MESSAGE value="удалил тест" />
-    <option name="LAST_COMMIT_MESSAGE" value="удалил тест" />
+    <MESSAGE value="исправил некоторый ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил некоторый ошибки" />
   </component>
 </project>
