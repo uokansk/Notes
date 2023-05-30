@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="исправил некоторый ошибки">
-      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/Logable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/LoggerConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/NoteDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/workNote/NoteDecoratorFactory.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="исправил некоторый ошибки и попробовал делать логирование">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/spisok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/javaProects/OOP_Lesson5_MVC"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaProects/OOP_Lesson5_MVC&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -110,13 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678267186905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="исправил некоторый ошибки и попробовал делать логирование">
+      <created>1678274190995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678274190995</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="домашняя работа 6" />
     <MESSAGE value="удалил тест" />
     <MESSAGE value="исправил некоторый ошибки" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил некоторый ошибки" />
+    <MESSAGE value="исправил некоторый ошибки и попробовал делать логирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил некоторый ошибки и попробовал делать логирование" />
   </component>
 </project>
