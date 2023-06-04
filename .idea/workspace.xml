@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="исправил некоторый ошибки и попробовал делать логирование">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/spisok.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="разворот связного списка">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/HashTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678274190995</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="разворот связного списка">
+      <created>1685464211534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685464211534</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +128,7 @@
     <MESSAGE value="удалил тест" />
     <MESSAGE value="исправил некоторый ошибки" />
     <MESSAGE value="исправил некоторый ошибки и попробовал делать логирование" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил некоторый ошибки и попробовал делать логирование" />
+    <MESSAGE value="разворот связного списка" />
+    <option name="LAST_COMMIT_MESSAGE" value="разворот связного списка" />
   </component>
 </project>
