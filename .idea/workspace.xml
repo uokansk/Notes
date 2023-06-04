@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="разворот связного списка">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/HashTable.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="HAHSTab">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritm/RadBlackTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685464211534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HAHSTab">
+      <created>1685881986203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685881986203</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +137,7 @@
     <MESSAGE value="исправил некоторый ошибки" />
     <MESSAGE value="исправил некоторый ошибки и попробовал делать логирование" />
     <MESSAGE value="разворот связного списка" />
-    <option name="LAST_COMMIT_MESSAGE" value="разворот связного списка" />
+    <MESSAGE value="HAHSTab" />
+    <option name="LAST_COMMIT_MESSAGE" value="HAHSTab" />
   </component>
 </project>
