@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="решение домашней работы4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/SEm1task000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1HW003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1HW004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1Task001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1Task002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1Task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1Task004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Sem1Task006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="решение домашней работы4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685886105749</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="решение домашней работы4">
+      <created>1686316590520</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686316590520</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

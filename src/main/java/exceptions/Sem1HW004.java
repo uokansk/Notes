@@ -12,7 +12,7 @@ import java.util.List;
 public class Sem1HW004 {
     public static void main(String[] args) {
         float[] arr1 = {1, 2, 3, 4, 5, 6, 7};
-        float[] arr2 = {7, 6, 5, 4, 3, 2};
+        float[] arr2 = {7, 6, 5, 4, 3, 2, 0};
         List<Float> result = divisionArrays(arr1, arr2);
         System.out.println("Разница массивов " + result);
 
@@ -24,6 +24,9 @@ public class Sem1HW004 {
             throw new RuntimeException("Длины массивов не равны");
         } else {
             for (int i = 0; i < arr1.length; i++) {
+                if (arr2[i] == 0) {
+                    throw new RuntimeException("Деление на ноль невозможно");
+                }
                 float a = arr1[i] / arr2[i];
                 divisionArr.add(a);
             }
