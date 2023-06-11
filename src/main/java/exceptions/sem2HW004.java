@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Разработайте программу, которая выбросит Exception, когда пользователь вводит пустую строку. Пользователю должно показаться сообщение, что пустые строки вводить нельзя
  */
-public class sem3HW004 {
+public class sem2HW004 {
     public static void main(String[] args) throws Exception {
         System.out.println("Введено " + inputData());
     }
