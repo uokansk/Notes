@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="Деление на ноль невозможно">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2HW001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2HW002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2HW003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2task002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem2task003Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem3HW004.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="переименовал">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem3HM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/javaProects/OOP_Lesson5_MVC&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sem3HW004">
+  <component name="RunManager" selected="Application.sem3HM">
     <configuration name="Seminar2_hw4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar2_hw4" />
       <module name="Notes" />
@@ -66,19 +59,6 @@
     <configuration name="Seminar2_hw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar2_hw4" />
       <module name="Notes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sem2HW002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.sem2HW002" />
-      <module name="Notes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sem3HW004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.sem3HW004" />
+    <configuration name="sem2HW004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.sem2HW004" />
+      <module name="Notes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sem3HM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.sem3HM" />
       <module name="Notes" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sem3HW004" />
+        <item itemvalue="Application.sem3HM" />
+        <item itemvalue="Application.sem2HW004" />
         <item itemvalue="Application.Seminar2_hw4 (1)" />
         <item itemvalue="Application.Seminar2_hw4" />
         <item itemvalue="Application.sem2HW003" />
-        <item itemvalue="Application.sem2HW002" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686318913366</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Деление на ноль невозможно">
+      <created>1686478361158</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478361158</updated>
+    </task>
+    <task id="LOCAL-00014" summary="переименовал">
+      <created>1686478403910</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478403910</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +234,7 @@
     <MESSAGE value="решение домашней работы3" />
     <MESSAGE value="решение домашней работы4" />
     <MESSAGE value="Деление на ноль невозможно" />
-    <option name="LAST_COMMIT_MESSAGE" value="Деление на ноль невозможно" />
+    <MESSAGE value="переименовал" />
+    <option name="LAST_COMMIT_MESSAGE" value="переименовал" />
   </component>
 </project>
