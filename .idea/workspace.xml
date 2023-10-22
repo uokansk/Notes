@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="переименовал">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/sem3HM.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="СДЕЛАЛ!!!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelChangedObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelChanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Angele3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Flash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Poligon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/PoligonalModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Texture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/Programm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +63,11 @@
     &quot;last_opened_file_path&quot;: &quot;D:/javaProects/OOP_Lesson5_MVC&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProects\Notes\src\main\java\store" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.sem3HM">
     <configuration name="Seminar2_hw4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar2_hw4" />
@@ -219,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686478403910</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="СДЕЛАЛ!!!">
+      <created>1686753599003</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686753599004</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +262,7 @@
     <MESSAGE value="решение домашней работы4" />
     <MESSAGE value="Деление на ноль невозможно" />
     <MESSAGE value="переименовал" />
-    <option name="LAST_COMMIT_MESSAGE" value="переименовал" />
+    <MESSAGE value="СДЕЛАЛ!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="СДЕЛАЛ!!!" />
   </component>
 </project>
