@@ -4,23 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="СДЕЛАЛ!!!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/CustomService3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelChangedObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/InMemoryModel/ModelStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Angele3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Flash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Poligon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/PoligonalModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/ModelElements/Texture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/Programm.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="ДЗ_1 СДЕЛАЛ!!!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/CarWashStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/CarWashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/FogLightsToggling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/FuelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/GearboxType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/HarvesterCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/Refueling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/RefuelingStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/SedanCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/TyreFittingStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem03hw/TyresFitting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -246,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686753599004</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ДЗ_1 СДЕЛАЛ!!!">
+      <created>1697988889958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697988889958</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -263,6 +269,7 @@
     <MESSAGE value="Деление на ноль невозможно" />
     <MESSAGE value="переименовал" />
     <MESSAGE value="СДЕЛАЛ!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="СДЕЛАЛ!!!" />
+    <MESSAGE value="ДЗ_1 СДЕЛАЛ!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ_1 СДЕЛАЛ!!!" />
   </component>
 </project>
