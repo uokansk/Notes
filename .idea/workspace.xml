@@ -4,16 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="ДЗ_3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/BusinessLogicalLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/DatabaseAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/Editor3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/EditorBusinessLogicalLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/EditorDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/EditorDatabaseAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem05hw/Model3D.java" afterDir="false" />
+    <list default="true" id="f8c2c304-c133-40a6-b455-61b166a88946" name="Changes" comment="ДЗ_5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/application/ConcreteNoteEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/application/interfaces/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/application/interfaces/NoteEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/application/interfaces/NotesDatabaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/application/interfaces/NotesPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/database/NotesDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/database/NotesRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/database/NotesTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/domain/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/DatabaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/DbContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/ModelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/ModelConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/infrastructure/persistance/entityconfiguration/NoteConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/presentation/queries/controllers/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/presentation/queries/controllers/NotesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/presentation/queries/views/NotesConsolePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/architecture/stor/sem06hw/presentation/queries/views/Presenter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698334773824</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ДЗ_5">
+      <created>1699099414096</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699099414096</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,6 +290,7 @@
     <MESSAGE value="СДЕЛАЛ!!!" />
     <MESSAGE value="ДЗ_1 СДЕЛАЛ!!!" />
     <MESSAGE value="ДЗ_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ_3" />
+    <MESSAGE value="ДЗ_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ_5" />
   </component>
 </project>
